@@ -1,0 +1,66 @@
+
+.gg{
+  height: 600px;
+  width: 600px;
+}
+  .img1 {
+    max-width: 570px;
+    max-height: 570px;
+}
+
+.tol{
+  color:pink;
+}
+    .ban{
+  color:#add8e6
+}
+body{
+  background-image: url('img/boy.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+  a:link{
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+  }
+  a:visited{
+    color: purple;
+    font-family: 'Abril Fatface', cursive;
+  }
+  a:hover{
+    color: red;
+  }
+
+  .re{
+    color: pink;
+  }
+
+span{
+  color: red;
+}
+table {
+  border-color:#301934;
+  background-color:Black;
+}
+#Swiming p{
+  color: #0f52ba;
+}
+p:third-line {color:#555}
+
+h1::first-line {
+  color:#c71585;
+  font-size:50px;
+  font-variant: small-caps;
+}
+
+body{
+  background-image: url('../img/boy.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+h2{
+  color:#c71585;
+}
